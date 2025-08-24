@@ -9,7 +9,7 @@
 	<description>Simplest possible Java Webapp</description>
 
 	<properties>
-        <sonar.projectKey>java-maven</sonar.projectKey>
+        <sonar.SonarQube_demo>java-maven</sonar.SonarQube_demo>
         <sonar.host.url>http://52.91.216.42/:9000</sonar.host.url>
     </properties>
 
