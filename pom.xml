@@ -9,7 +9,7 @@
 	<description>Simplest possible Java Webapp</description>
 
 	<properties>
-        <sonar.hello-world-war-java>java-maven</sonar.hello-world-war-java>
+        <sonar.hello-world-war-java1>java-maven</sonar.hello-world-war-java1>
         <sonar.host.url>http://35.172.201.214/:9000</sonar.host.url>
     </properties>
 
